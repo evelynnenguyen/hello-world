@@ -1,4 +1,3 @@
-# hello-world
-the first repository
+#hello_world
 
-This is my very first time knowing github. I desperately want to be an excellent developer.
+I use this repository to save most of great things that I learn from Google. Starting with basic concepts of Machine Learning (ML), TensorFlow, pandas, etc.
